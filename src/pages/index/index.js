@@ -12,7 +12,7 @@ const PICK =
 export default () => {
   return (
     <View >
-      <Cell />
+      <Cell plugid="58c2c858b8e7c64a1601074835713445" />
     </View>
   );
 };
